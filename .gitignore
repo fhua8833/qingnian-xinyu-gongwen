@@ -1,0 +1,7 @@
+work/
+__pycache__/
+*.pyc
+.DS_Store
+*.docx
+*.pdf
+!references/source.pdf

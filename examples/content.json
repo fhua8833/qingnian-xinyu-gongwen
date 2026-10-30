@@ -1,0 +1,21 @@
+{
+  "profile": "qnxy-explicit-layout-v1",
+  "approval": {
+    "confirmed_by": "待用户实际确认后填写",
+    "confirmation": "未确认；请勿直接构建"
+  },
+  "title": "关于开展青年理论宣讲学习活动的通知",
+  "blocks": [
+    {"type": "paragraph", "text": "为加强理论学习、提升宣讲能力，拟组织开展青年理论宣讲学习活动。具体安排以正式审定内容为准。"},
+    {"type": "heading", "level": 1, "text": "活动安排"},
+    {"type": "heading", "level": 2, "text": "学习内容"},
+    {"type": "heading", "level": 3, "text": "集中研讨"},
+    {"type": "heading", "level": 4, "text": "交流要求"},
+    {"type": "paragraph", "text": "围绕学习主题准备交流材料，并结合青年实际形成宣讲提纲。"},
+    {"type": "table", "caption": "学习材料清单", "headers": ["名称", "份数"], "row_header": false, "rows": [["学习提纲", "1"], ["交流材料", "1"]]},
+    {"type": "paragraph", "text": "请参加人员按照正式通知要求做好准备。"}
+  ],
+  "attachments": [
+    {"title": "材料准备说明", "blocks": [{"type": "paragraph", "text": "本文件仅为输入结构示例，使用时应替换为已经确认的正式内容。"}]}
+  ]
+}
